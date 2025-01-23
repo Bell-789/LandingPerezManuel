@@ -1,0 +1,52 @@
+body {
+    background-color: #b9b5b5;
+    color: #021b2e;
+    font-size: 16px;
+}
+
+h1 {
+    color: #021b2e;
+    font-size: 1.5rem; 
+}
+
+.container {
+    background-color: #f9f9ef;
+    color: #021b2e;
+    width: 50%;
+    margin: 1rem auto;
+    max-width: 1800px;
+    padding: 3rem 2rem;
+    display: flex;
+    border-radius: 3rem 3rem; 
+    font-family: Jost;
+    font-weight: 600;
+    text-align: center;
+    flex-direction: column;
+
+}
+
+
+nav {
+    background-color: #021b2e;
+    color: #f9f9ef;
+    width: 90%;
+    margin: auto;
+    max-width: 1800px;
+    padding: 0.9rem 2rem;
+    border-radius: 3rem 3rem;
+    text-align: center;
+    font-size: 3rem;
+}
+
+ul {
+    padding-left: 20px; 
+    margin: 0; 
+    list-style-position: inside; 
+}
+
+
+p {
+    font-size: 1.3rem;
+    text-align: center;
+    
+}
